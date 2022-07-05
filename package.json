@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "fastify start -w -l info -P app.js"
+  },
+  "dependencies": {
+    "fastify-cli": "^4.2.1"
+  }
+}
